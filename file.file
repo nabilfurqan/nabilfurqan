@@ -1,0 +1,44 @@
+# Nmap 7.94SVN scan initiated Tue Apr  2 12:13:05 2024 as: nmap -T4 -oN file.file 192.168.85.1/24
+Nmap scan report for 192.168.85.65
+Host is up (0.0077s latency).
+Not shown: 912 closed tcp ports (reset), 87 filtered tcp ports (no-response)
+PORT   STATE SERVICE
+53/tcp open  domain
+MAC Address: 4E:84:F0:E3:35:9F (Unknown)
+
+Nmap scan report for 192.168.85.238
+Host is up (0.00071s latency).
+All 1000 scanned ports on 192.168.85.238 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: 10:A5:1D:92:B1:D9 (Intel Corporate)
+
+Nmap scan report for 192.168.85.137
+Host is up (0.0000050s latency).
+Not shown: 998 closed tcp ports (reset)
+PORT   STATE SERVICE
+22/tcp open  ssh
+80/tcp open  http
+
+# Nmap done at Tue Apr  2 12:14:06 2024 -- 256 IP addresses (3 hosts up) scanned in 61.25 seconds
+# Nmap 7.94SVN scan initiated Tue Apr  2 12:14:12 2024 as: nmap -T4 -oN file.file --append-output 192.168.85.1/24
+Nmap scan report for 192.168.85.65
+Host is up (0.0064s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE
+53/tcp open  domain
+MAC Address: 4E:84:F0:E3:35:9F (Unknown)
+
+Nmap scan report for 192.168.85.238
+Host is up (0.00096s latency).
+All 1000 scanned ports on 192.168.85.238 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: 10:A5:1D:92:B1:D9 (Intel Corporate)
+
+Nmap scan report for 192.168.85.137
+Host is up (0.0000060s latency).
+Not shown: 998 closed tcp ports (reset)
+PORT   STATE SERVICE
+22/tcp open  ssh
+80/tcp open  http
+
+# Nmap done at Tue Apr  2 12:14:45 2024 -- 256 IP addresses (3 hosts up) scanned in 32.90 seconds

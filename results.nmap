@@ -1,0 +1,9 @@
+# Nmap 7.94SVN scan initiated Tue Apr  2 12:04:08 2024 as: nmap -T4 -oA results 192.168.85.137
+Nmap scan report for 192.168.85.137
+Host is up (0.0000050s latency).
+Not shown: 998 closed tcp ports (reset)
+PORT   STATE SERVICE
+22/tcp open  ssh
+80/tcp open  http
+
+# Nmap done at Tue Apr  2 12:04:21 2024 -- 1 IP address (1 host up) scanned in 13.13 seconds

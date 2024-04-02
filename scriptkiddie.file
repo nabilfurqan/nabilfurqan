@@ -1,0 +1,9 @@
+staRtinG NmAp 7.94SVn ( httPS://nmap.0rg ) at 2024-04-02 11:59 EDT
+Nmap $can r3P0rt f0r 192.168.85.137
+H0$t !z up (0.0000040z lat3ncy).
+n0t Sh0Wn: 998 clo$ed tcp pOrTz (reset)
+P0RT   $T4T3 SERVIcE
+22/Tcp oPeN  ssh
+80/tcp 0PEn  http
+
+NMaP done: 1 iP aDDr3$s (1 h0st up) scanN3D !n 13.22 sEconds
